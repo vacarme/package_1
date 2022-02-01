@@ -1,0 +1,3 @@
+[console_scripts]
+hello = package_1.command_line:main
+
