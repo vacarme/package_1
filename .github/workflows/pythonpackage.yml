@@ -31,4 +31,4 @@ jobs:
 
     strategy:
       matrix:
-        python-version: [3.8.12]
+        python-version: [3.8]
